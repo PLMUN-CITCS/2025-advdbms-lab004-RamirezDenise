@@ -1,4 +1,4 @@
 USE UniversityDB;
 
-ALTER TABLE Student
+ALTER TABLE Students
 ADD Email VARCHAR(100);
